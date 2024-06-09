@@ -1,0 +1,10 @@
+﻿body{
+    background-color: azure;
+}
+#buttonsPanel{
+    display:flex;
+    justify-content:space-between;
+}
+.container{
+    height:800px;
+}
